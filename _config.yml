@@ -1,6 +1,6 @@
 name: stevenn
 favicon: null
-layout_spectrum: 0.8355059027671814
+layout_spectrum: 0.79868
 typography_spectrum: 0.09108267538249493
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#dce9f2'
+    - '#0f1012'
+    - '#544c49'
+    - '#a5b6bf'
+    - '#766e6b'
   brandStrength: 0.5325362503062934
   lightness: 0.9778571405913681
   saturation: 0.2962476913817227
